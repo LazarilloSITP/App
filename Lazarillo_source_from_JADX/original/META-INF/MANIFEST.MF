@@ -1,0 +1,84 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_45 (Oracle Corporation)
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: ZX/raIXCvGGzgu+fvnYbcbkwl5o=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: o6y8sVtIX+U/IVLmssNNO0HLJhM=
+
+Name: assets/misDestinos.m4a
+SHA1-Digest: koQnRPbjgCr9ICOXUJQVdBrwM7M=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: G+o6PF81lzJHZGjIIUdM6ZH67RI=
+
+Name: resources.arsc
+SHA1-Digest: EO0MqCVyCLfI35Q8q8SRMqyHEvI=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: Zq8vc9Y86WEOwIHvd2vvnF5LAjU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: fKbdBO09xs0M2LhUZFKnneayY3I=
+
+Name: assets/Lazarillo2.JPG
+SHA1-Digest: cSOnxGLfFPB3ZEDOUbxceETsCEg=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: 1RFOJzpf/Tnrt6Cz+YXKri/dcQs=
+
+Name: res/anim/hold.xml
+SHA1-Digest: GKBZZAVQp1UHWpdLvgRKYsaN968=
+
+Name: assets/Lazarillo_Fondo.JPG
+SHA1-Digest: ALqQJ0NqwxMrjRjkyWMK+NmpOkk=
+
+Name: assets/BienvenidoUbica.m4a
+SHA1-Digest: 0uG5NgbgYB4ioRkLEbN7285WnUU=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: AI9U9jd8y+rlzUpfZu9q4VZpvP0=
+
+Name: res/drawable/ya.png
+SHA1-Digest: fmjh6cSKcrex6NyngtaRsL7hH6U=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: BmxIVohKX0sSkZa5gB/EAfFftlU=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xsEvJd6+HxCGf8W9bRNyDJagnZ0=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: kvKMcrPGTjRGBwIpiaKwUQ4F/bY=
+
+Name: assets/misDestinos2.m4a
+SHA1-Digest: OdzXjL8ii801FZQd30rolC0y/sc=
+
+Name: classes.dex
+SHA1-Digest: Vi3TkLj7Z88MTbgL1qbxWhohSKw=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: ioBRfr3sxqvTP2Dsfg9bfrBu5NA=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: VE6Oh3BHy1caiImNmGoeHwMHt/I=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: VwO+DjHaulKaPlqfDFwicM7taAM=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: 9lXf30b08R2I7vWxAXL3x4EnFZU=
+
+Name: assets/listoUbica.m4a
+SHA1-Digest: VmnC1GakZw/7eWWDe5Th4NnyaBk=
+
+Name: assets/iniciaNavega.m4a
+SHA1-Digest: XbyYXGUgYhnMj4I/siw/vpbKqYg=
+
+Name: assets/guardarUbica.m4a
+SHA1-Digest: 9vNcZsYb4MXklyv2B4Nx1gBq9/k=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: kzP0svpVXrshXRVnbxlRXjrmKZo=
+
